@@ -6,9 +6,9 @@
   Owner: Sean Kealey
   Site: http://seankealey.net
   Twitter: sean_kealey
-  Location: Chicago
+  Location: SF
 
 /* SITE */
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
-  Software: Sublime2 & Codekit
+  Software: Sublime2
